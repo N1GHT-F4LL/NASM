@@ -1,6 +1,6 @@
 # LAB1
 
-In họ và tên của bản thân ra màn hình ví dụ như sau:
+Nhập vào tên bản thân và In ra màn hình. Ví dụ như output bên dưới:
 ```
 Input: Kinabler
 Output:
