@@ -3,7 +3,7 @@ Viết chương trình tính tổng các số từ 1 đến n (với n là input
 Mẫu:
 |Input| Input: 3|
 |:---|:---|
-|Ouput| Sum of 5 sequences is: 6|
+|Ouput| Sum of 3 sequences is: 6|
 | Giải thích: 1 + 2 + 3 = 6 | => Output: '6'
 
 Hoặc:
